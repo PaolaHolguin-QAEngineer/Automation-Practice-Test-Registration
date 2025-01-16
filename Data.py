@@ -1,0 +1,5 @@
+base_url = "http://www.automationpractice.pl/index.php?controller=authentication&back=my-account"
+email = "abc125@xmail.com"
+firstname = "Paolo"
+lastname = "Holguin"
+password = "123abc"
